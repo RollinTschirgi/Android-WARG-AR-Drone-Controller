@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/me/AndroidStudioProjects/ardrone-sdk-android-master/app/libs/android-support-v13.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="ecda966839090a41b29a9239d44bafc06fdadb87">
+        <dex dex="/home/me/AndroidStudioProjects/ardrone-sdk-android-master/app/build/intermediates/pre-dexed/debug/android-support-v13-bdbcdd252a9b14bad16508f8493c4866b5433739.jar" />
+    </item>
+    <item
+        jar="/home/me/AndroidStudioProjects/ardrone-sdk-android-master/app/libs/com.sony.rdis.receiver-20111206.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="54df192bc2b97a2e5023702e51c91f1feec08055">
+        <dex dex="/home/me/AndroidStudioProjects/ardrone-sdk-android-master/app/build/intermediates/pre-dexed/debug/com.sony.rdis.receiver-20111206-ab6a4725b577d8ed9ddd66641326e1430cb2b304.jar" />
+    </item>
+    <item
+        jar="/home/me/AndroidStudioProjects/ardrone-sdk-android-master/app/libs/com.sony.rdis.receiver.utility-20111206.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="eb07ef3b9ff298ed938d52310212befef1e2417a">
+        <dex dex="/home/me/AndroidStudioProjects/ardrone-sdk-android-master/app/build/intermediates/pre-dexed/debug/com.sony.rdis.receiver.utility-20111206-fae0e1afb8bf9a1d416011a735290fd692e8cb3c.jar" />
+    </item>
+    <item
+        jar="/home/me/AndroidStudioProjects/ardrone-sdk-android-master/app/libs/cardboard.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="32c8e30df7bdcbf982603f70aeaf89e207f44219">
+        <dex dex="/home/me/AndroidStudioProjects/ardrone-sdk-android-master/app/build/intermediates/pre-dexed/debug/cardboard-1cc7d95b6b076cc6adc2c45be28af5cdb6af07b0.jar" />
+    </item>
+
+</items>
